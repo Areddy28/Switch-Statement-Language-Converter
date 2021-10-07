@@ -1,0 +1,14 @@
+C:\Users\areddy1\source\repos\LanguageConverter\LanguageConverter\bin\Debug\netcoreapp3.1\LanguageConverter.exe
+C:\Users\areddy1\source\repos\LanguageConverter\LanguageConverter\bin\Debug\netcoreapp3.1\LanguageConverter.deps.json
+C:\Users\areddy1\source\repos\LanguageConverter\LanguageConverter\bin\Debug\netcoreapp3.1\LanguageConverter.runtimeconfig.json
+C:\Users\areddy1\source\repos\LanguageConverter\LanguageConverter\bin\Debug\netcoreapp3.1\LanguageConverter.runtimeconfig.dev.json
+C:\Users\areddy1\source\repos\LanguageConverter\LanguageConverter\bin\Debug\netcoreapp3.1\LanguageConverter.dll
+C:\Users\areddy1\source\repos\LanguageConverter\LanguageConverter\bin\Debug\netcoreapp3.1\LanguageConverter.pdb
+C:\Users\areddy1\source\repos\LanguageConverter\LanguageConverter\obj\Debug\netcoreapp3.1\LanguageConverter.csproj.AssemblyReference.cache
+C:\Users\areddy1\source\repos\LanguageConverter\LanguageConverter\obj\Debug\netcoreapp3.1\LanguageConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\areddy1\source\repos\LanguageConverter\LanguageConverter\obj\Debug\netcoreapp3.1\LanguageConverter.AssemblyInfoInputs.cache
+C:\Users\areddy1\source\repos\LanguageConverter\LanguageConverter\obj\Debug\netcoreapp3.1\LanguageConverter.AssemblyInfo.cs
+C:\Users\areddy1\source\repos\LanguageConverter\LanguageConverter\obj\Debug\netcoreapp3.1\LanguageConverter.csproj.CoreCompileInputs.cache
+C:\Users\areddy1\source\repos\LanguageConverter\LanguageConverter\obj\Debug\netcoreapp3.1\LanguageConverter.dll
+C:\Users\areddy1\source\repos\LanguageConverter\LanguageConverter\obj\Debug\netcoreapp3.1\LanguageConverter.pdb
+C:\Users\areddy1\source\repos\LanguageConverter\LanguageConverter\obj\Debug\netcoreapp3.1\LanguageConverter.genruntimeconfig.cache
